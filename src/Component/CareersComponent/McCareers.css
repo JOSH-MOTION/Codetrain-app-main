@@ -1,0 +1,110 @@
+.Navv {
+    margin-left: 5rem;
+    margin-top: -3rem;
+  }
+  .me-auto {
+    color: #000;
+    font-size: 15px;
+  }
+  .me {
+    color: #000;
+    font-size: 15px;
+    margin-left: -1.5rem;
+    margin-top: -1.5;
+  }
+  .SSS {
+    width: 1rem;
+    height: 1rem;
+    margin-left: 17rem;
+    margin-top: -1.5;
+  }
+  .LLL {
+    width: 1.9rem;
+    height: 1.9rem;
+    margin-top: -0.5rem;
+    margin-left: 1rem;
+  }
+  .ink {
+    margin-top: 0.5rem;
+    margin-left: -1rem;
+  }
+  .Butt {
+    margin-left: 3rem;
+    width: 8rem;
+    height: 3rem;
+    padding-top: 0.6rem;
+  }
+  .menu {
+    margin-left: 7.5rem;
+    margin-top: -2rem;
+    color: #000;
+  }
+  .men {
+    margin-top: -2rem;
+    margin-left: 1.5rem;
+    color: #000;
+  }
+  .menn {
+    margin-left: 1rem;
+    color: #000;
+  }
+  .Bur {
+    width: 45rem;
+    height: 20rem;
+    margin-top: 7rem;
+    margin-left: 3rem;
+  }
+  .print {
+    margin-top: 8rem;
+    font-size: 2.2em;
+    font-weight: 800;
+    margin-left: -5rem;
+  }
+  p {
+    margin-left: -5rem;
+  }
+  .sml {
+    margin-left: -5rem;
+    font-size: x-small;
+  }
+  .button {
+    height: 3rem;
+    width: 15em;
+    margin-top: 1em;
+    margin-left: -6em;
+    border-radius: 0.3em;
+  }
+  .buton {
+    height: 3rem;
+    width: 10em;
+    margin-top: 1.5em;
+    margin-left: -5em;
+    border-radius: 0.3em;
+  }
+  .bton {
+    height: 3em;
+    width: 20em;
+    margin-top: 2em;
+    margin-left: -5em;
+    border-radius: 0.3em;
+  }
+  .prin {
+    margin-top: 7.3rem;
+    font-size: 2.2em;
+    font-weight: 800;
+    margin-left: -5rem;
+  }
+  .butom {
+    width: 13em;
+    height: 3em;
+    margin-left: -5em;
+    border-radius: 0.3em;
+    margin-top: 2em;
+  }
+  .lang {
+    font-weight: 700;
+  }
+  #basic-nav-dropdown {
+    color: #000;
+  }
+  
